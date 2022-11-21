@@ -1,3 +1,4 @@
+# สามารถทำการ commit ได้ เพราะ clone ลงใน Vscode แบบส่วนตัวแล้ว
 # "Tailwind CSS for Beginners"
 
 ### Full Course - 5 Chapters
